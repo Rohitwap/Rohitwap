@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rohitwap/static/css/main.0e71c45b.css",
+    "main.js": "/Rohitwap/static/js/main.ca58e0d3.js",
+    "static/media/1.jpg": "/Rohitwap/static/media/1.3e72eea6ecb8a20ad6b8.jpg",
+    "static/media/me.png": "/Rohitwap/static/media/me.4db4f625339ea75375a3.png",
+    "static/media/vg.png": "/Rohitwap/static/media/vg.bdfa5f7019af540184c0.png",
+    "index.html": "/Rohitwap/index.html",
+    "main.0e71c45b.css.map": "/Rohitwap/static/css/main.0e71c45b.css.map",
+    "main.ca58e0d3.js.map": "/Rohitwap/static/js/main.ca58e0d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e71c45b.css",
+    "static/js/main.ca58e0d3.js"
+  ]
+}
